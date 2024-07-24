@@ -55,14 +55,14 @@ Reactをプロダクションモードで正しくバンドルし、最良のパ
 
 #### バックエンド
 
-```bash
+```
 cd address-search-frontend/backend
 npm install
 ```
 
 #### フロントエンド
 
-```bash
+```
 cd ../
 npm install
 ```
@@ -71,7 +71,7 @@ npm install
 
 #### バックエンドの起動
 
-```bash
+```
 cd backend
 node index.js
 ```
@@ -84,7 +84,7 @@ Server running on port 5001
 
 #### フロントエンドの起動
 
-```bash
+```
 cd ../
 npm start
 ```
